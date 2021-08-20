@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, This is CI/CD project with Maven Built and Tomcat server !!! </h1>
 
